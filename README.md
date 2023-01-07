@@ -1,10 +1,9 @@
-# HTML5 Website Templates (For Begginers and Professionals)
- 
-> *Click &#9733; if you like the project. Your contributions are heartily ♡ welcome.*
+# История Беларуси
+
 
 <br/>
 
-## Table of contents
+## Билеты по Истории Беларуси в текстовом виде
 
 
 
